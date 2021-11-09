@@ -8,8 +8,8 @@
 assets/
 
 # Proposal documents
-.docx
-.xlsx
-.gdoc
+*.docx
+*.xlsx
+*.gdoc
 
 
