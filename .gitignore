@@ -4,8 +4,8 @@
 # OS junk files
 *.DS_Store
 
-# Original data folder
-assets/original/
+# Data folder
+assets/
 
 # Proposal documents
 .docx
