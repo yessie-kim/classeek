@@ -1,0 +1,56 @@
+Crse Lst,Crse Lst Descr,Eff Date,Crse Lst Effective Status,Crse Seq,Course ID,Subject,Catalog Nbr,description,WildCard,Wildcard Acad Group,Wildcard Subject,Wildcard Catalog,Valid Beg,Valid End,Term Code,Term Descr,Class Assoc,Topic ID,Req Designation,subject,course
+20,1997 Introductory Composition (no test),1997-09-03,A,1,18306,AMCULT,101,Rdg in Amer,N,,,,,,,,0,0,,AMCUL,AMCUL 101
+20,1997 Introductory Composition (no test),1997-09-03,A,2,17574,AMCULT,170,Col&Cult Enc,N,,,,,,,,0,0,,AMCUL,AMCUL 170
+20,1997 Introductory Composition (no test),1997-09-03,A,48,47730,BIOLOGY,197,Science Writing,N,,,,,,2200.0,Summer 2018,0,0,,BIOLOG,BIOLOG 197
+20,1997 Introductory Composition (no test),1997-09-03,A,46,47730,BIOLOGY,197,Science Writing,N,,,,,,2170.0,Winter 2018,0,0,,BIOLOG,BIOLOG 197
+20,1997 Introductory Composition (no test),1997-09-03,A,45,47730,BIOLOGY,197,Science Writing,N,,,,,,2150.0,Summer 2017,0,0,,BIOLOG,BIOLOG 197
+20,1997 Introductory Composition (no test),1997-09-03,A,52,47730,BIOLOGY,197,Science Writing,N,,,,,,2320.0,Winter 2021,1,0,,BIOLOG,BIOLOG 197
+20,1997 Introductory Composition (no test),1997-09-03,A,36,46653,BIOLOGY,242,Honors Core Wrtg Bio,N,,,,2015-08-22,,,,0,0,,BIOLOG,BIOLOG 242
+20,1997 Introductory Composition (no test),1997-09-03,A,19,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1060.0,Fall 1997,8,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,20,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1210.0,Fall 1998,3,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,21,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1210.0,Fall 1998,5,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,22,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1210.0,Fall 1998,8,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,27,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1610.0,Fall 2006,2,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,24,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1260.0,Fall 1999,5,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,18,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1060.0,Fall 1997,5,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,28,4933,CLCIV,101,Anc Grk Wrld,N,,,,2007-09-04,,,,0,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,29,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1560.0,Fall 2005,2,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,23,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1260.0,Fall 1999,3,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,17,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1060.0,Fall 1997,4,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,26,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1560.0,Fall 2005,2,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,16,4933,CLCIV,101,Anc Grk Wrld,N,,,,,,1060.0,Fall 1997,3,0,,CLCI,CLCI 101
+20,1997 Introductory Composition (no test),1997-09-03,A,3,18769,CLCIV,121,CC Sem Comp,N,,,,,,,,0,0,,CLCI,CLCI 121
+20,1997 Introductory Composition (no test),1997-09-03,A,25,39555,COMPLIT,122,Writing World Lits,N,,,,,,,,0,0,,COMPLI,COMPLI 122
+20,1997 Introductory Composition (no test),1997-09-03,A,44,45983,COMPLIT,141,Great Performances,N,,,,2017-08-19,,,,0,0,,COMPLI,COMPLI 141
+20,1997 Introductory Composition (no test),1997-09-03,A,4,17062,ENGLISH,124,Academic Writing&Lit,N,,,,,,,,0,0,,ENGLIS,ENGLIS 124
+20,1997 Introductory Composition (no test),1997-09-03,A,5,1612,ENGLISH,125,Writing&Academic Inq,N,,,,,,,,0,0,,ENGLIS,ENGLIS 125
+20,1997 Introductory Composition (no test),1997-09-03,A,49,48971,ENGLISH,126,Comm-Engaged Writ,N,,,,2018-12-21,,,,0,0,,ENGLIS,ENGLIS 126
+20,1997 Introductory Composition (no test),1997-09-03,A,34,5123,ENGLISH,140,1st Yr Sem Lang&Lit,N,,,,,,2010.0,Fall 2014,0,51,,ENGLIS,ENGLIS 140
+20,1997 Introductory Composition (no test),1997-09-03,A,6,5125,ENGLISH,220,Intensive Writing,N,,,,,,,,0,0,,ENGLIS,ENGLIS 220
+20,1997 Introductory Composition (no test),1997-09-03,A,7,5388,GTBOOKS,191,Honrs Grt Bks,N,,,,,,,,0,0,,GTBOOK,GTBOOK 191
+20,1997 Introductory Composition (no test),1997-09-03,A,53,50490,HISTART,228,Visual Ancient Rome,N,,,,,,,,0,0,,HISTAR,HISTAR 228
+20,1997 Introductory Composition (no test),1997-09-03,A,2,17574,HISTORY,170,Col&Cult Enc,N,,,,,,,,0,0,,HISTOR,HISTOR 170
+20,1997 Introductory Composition (no test),1997-09-03,A,8,20008,HISTORY,195,Writing of Hist,N,,,,,,,,0,0,,HISTOR,HISTOR 195
+20,1997 Introductory Composition (no test),1997-09-03,A,47,46291,HONORS,230,Honors Core SS,N,,,,,,2170.0,Winter 2018,0,1,,HONOR,HONOR 230
+20,1997 Introductory Composition (no test),1997-09-03,A,37,45892,HONORS,240,Hon Core Writing SS,N,,,,,,2060.0,Fall 2015,1,0,,HONOR,HONOR 240
+20,1997 Introductory Composition (no test),1997-09-03,A,39,45892,HONORS,240,Hon Core Writing SS,N,,,,2016-01-01,,,,0,0,,HONOR,HONOR 240
+20,1997 Introductory Composition (no test),1997-09-03,A,30,45893,HONORS,241,Hon Core Writing HU,N,,,,,,2010.0,Fall 2014,0,2,,HONOR,HONOR 241
+20,1997 Introductory Composition (no test),1997-09-03,A,33,45893,HONORS,241,Hon Core Writing HU,N,,,,,,2010.0,Fall 2014,1,0,,HONOR,HONOR 241
+20,1997 Introductory Composition (no test),1997-09-03,A,38,45893,HONORS,241,Hon Core Writing HU,N,,,,,,2060.0,Fall 2015,1,0,,HONOR,HONOR 241
+20,1997 Introductory Composition (no test),1997-09-03,A,40,45893,HONORS,241,Hon Core Writing HU,N,,,,2016-01-01,,,,0,0,,HONOR,HONOR 241
+20,1997 Introductory Composition (no test),1997-09-03,A,31,45893,HONORS,241,Hon Core Writing HU,N,,,,,,2060.0,Fall 2015,0,2,,HONOR,HONOR 241
+20,1997 Introductory Composition (no test),1997-09-03,A,32,45893,HONORS,241,Hon Core Writing HU,N,,,,,,2110.0,Fall 2016,0,2,,HONOR,HONOR 241
+20,1997 Introductory Composition (no test),1997-09-03,A,41,45894,HONORS,242,Hon Core Writing NS,N,,,,2016-01-01,,,,0,0,,HONOR,HONOR 242
+20,1997 Introductory Composition (no test),1997-09-03,A,9,18788,INSTHUM,104,Sem Intdis St,N,,,,,,,,0,0,,INSTHU,INSTHU 104
+20,1997 Introductory Composition (no test),1997-09-03,A,10,18575,INTEFLEX,100,First Yr Sem,N,,,,,,,,0,0,,INTEFLE,INTEFLE 100
+20,1997 Introductory Composition (no test),1997-09-03,A,12,20036,LING,104,First Yr Sem Comp,N,,,,,,,,0,0,,LIN,LIN 104
+20,1997 Introductory Composition (no test),1997-09-03,A,42,47098,LING,240,Honrs Core Wrtg Ling,N,,,,2016-08-20,,,,0,0,,LIN,LIN 240
+20,1997 Introductory Composition (no test),1997-09-03,A,11,16697,LSWA,125,College Writing,N,,,,,,,,0,0,,LSW,LSW 125
+20,1997 Introductory Composition (no test),1997-09-03,A,50,16697,LSWA,125,College Writing,N,,,,2019-09-01,,,,0,0,,LSW,LSW 125
+20,1997 Introductory Composition (no test),1997-09-03,A,35,46607,POLSCI,240,Honors Core Wrtg Pol,N,,,,2015-08-22,,,,0,0,,POLSC,POLSC 240
+20,1997 Introductory Composition (no test),1997-09-03,A,13,7047,RCCORE,100,First Year Sem,N,,,,,,,,0,0,,RCCOR,RCCOR 100
+20,1997 Introductory Composition (no test),1997-09-03,A,14,20050,SLAVIC,151,1st Year Seminar,N,,,,,,,,0,0,,SLAVI,SLAVI 151
+20,1997 Introductory Composition (no test),1997-09-03,A,51,49660,STDABRD,201,1stYr Writing Req IE,N,,,,2020-08-22,,,,0,0,,STDABR,STDABR 201
+20,1997 Introductory Composition (no test),1997-09-03,A,15,6380,UC,153,First-Yr Compos Sem,N,,,,,,,,0,0,,U,U 153
+20,1997 Introductory Composition (no test),1997-09-03,A,43,45484,UARTS,150,Int Creative Process,N,,,,2016-08-20,,,,0,0,,UART,UART 150
+20,1997 Introductory Composition (no test),1997-09-03,A,2,17574,WOMENSTD,210,Col&Cult Enc,N,,,,,,,,0,0,,WOMENST,WOMENST 210
