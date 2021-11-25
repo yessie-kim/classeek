@@ -1,4 +1,4 @@
-Crse Lst,Crse Lst Descr,Eff Date,Crse Lst Effective Status,Crse Seq,Course ID,Subject,Catalog Nbr,description,WildCard,Wildcard Acad Group,Wildcard Subject,Wildcard Catalog,Valid Beg,Valid End,Term Code,Term Descr,Class Assoc,Topic ID,Req Designation,subject,course
+Crse Lst,Crse Lst Descr,Eff Date,Crse Lst Effective Status,Crse Seq,Course ID,Subject,Catalog Nbr,title,WildCard,Wildcard Acad Group,Wildcard Subject,Wildcard Catalog,Valid Beg,Valid End,Term Code,Term Descr,Class Assoc,Topic ID,Req Designation,subject,course
 3474,Second Language courses for Residential College,1901-01-01,A,64,6226,AAPTIS,471,Adv West Arm I,N,,,,,,,,0,0,,AAPTI,AAPTI 471
 3474,Second Language courses for Residential College,1901-01-01,A,65,15631,AAPTIS,471,Int Old Arm Lit,N,,,,,,,,0,0,,AAPTI,AAPTI 471
 3474,Second Language courses for Residential College,1901-01-01,A,66,6227,AAPTIS,472,Adv West Arm II,N,,,,,,,,0,0,,AAPTI,AAPTI 472

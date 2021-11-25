@@ -1,4 +1,4 @@
-Crse Lst,Crse Lst Descr,Eff Date,Crse Lst Effective Status,Crse Seq,Course ID,Subject,Catalog Nbr,description,WildCard,Wildcard Acad Group,Wildcard Subject,Wildcard Catalog,Valid Beg,Valid End,Term Code,Term Descr,Class Assoc,Topic ID,Req Designation,subject,course
+Crse Lst,Crse Lst Descr,Eff Date,Crse Lst Effective Status,Crse Seq,Course ID,Subject,Catalog Nbr,title,WildCard,Wildcard Acad Group,Wildcard Subject,Wildcard Catalog,Valid Beg,Valid End,Term Code,Term Descr,Class Assoc,Topic ID,Req Designation,subject,course
 176,1997 Second Language (no other),1997-09-03,A,89,43304,AAS,216,Intermed Swahili II,N,,,,2010-01-06,,,,0,0,,AA,AA 216
 176,1997 Second Language (no other),1997-09-03,A,106,50335,AAS,226,Interm Yoruba II,N,,,,,,,,0,0,,AA,AA 226
 176,1997 Second Language (no other),1997-09-03,A,88,43223,AAS,226,Interm Afr Lang II,N,,,,2009-09-08,,,,0,0,,AA,AA 226

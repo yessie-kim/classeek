@@ -48,11 +48,11 @@ Upper Level CS Technical Electives (ULCS) ,12172,EECS 527,Layout Synthesis&Opt,F
 Upper Level CS Technical Electives (ULCS) ,14747,EECS 543,Knowledge-Based Sys,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,14748,EECS 545,Machine Learning,Four,3.0
 Upper Level CS Technical Electives (ULCS) ,21033,EECS 547,Incentive&Strategic,Four,4.0
-Upper Level CS Technical Electives (ULCS) , ,SI 652,,Four,4.0
+Upper Level CS Technical Electives (ULCS) , ,SI 652,Incentive&Strategic,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,12187,EECS 567,Robot Kinemat Dynam,Four,4.0
-Upper Level CS Technical Electives (ULCS) , ,MECHENG 567,,Four,4.0
-Upper Level CS Technical Electives (ULCS) , ,MFG 567,,Four,4.0
-Upper Level CS Technical Electives (ULCS) , ,ROB 510,,Four,4.0
+Upper Level CS Technical Electives (ULCS) , ,MECHENG 567,Robot Kinemat Dynam,Four,4.0
+Upper Level CS Technical Electives (ULCS) , ,MFG 567,Robot Kinemat Dynam,Four,4.0
+Upper Level CS Technical Electives (ULCS) , ,ROB 510,Robot Kinemat Dynam,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,12189,EECS 570,Parallel Compt Arch,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,17276,EECS 571,Pr R T Comp,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,20372,EECS 573,Microarch,Four,3.0
@@ -74,8 +74,8 @@ Upper Level CS Technical Electives (ULCS) ,41149,EECS 590,Adv Prog Lang,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,20374,EECS 591,Dist Sys,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,12195,EECS 592,AI Foundations,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,12198,EECS 595,Nat Lang Proc,Four,3.0
-Upper Level CS Technical Electives (ULCS) , ,LING 541,,Four,3.0
-Upper Level CS Technical Electives (ULCS) , ,SI 561,,Four,3.0
+Upper Level CS Technical Electives (ULCS) , ,LING 541,Nat Lang Proc,Four,3.0
+Upper Level CS Technical Electives (ULCS) , ,SI 561,Nat Lang Proc,Four,3.0
 Upper Level CS Technical Electives (ULCS) ,12204,EECS 627,VLSI Design II,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,20375,EECS 684,Curr Database,Four,4.0
 Upper Level CS Technical Electives (ULCS) ,40790,EECS 691,Mobile Computing,Four,4.0

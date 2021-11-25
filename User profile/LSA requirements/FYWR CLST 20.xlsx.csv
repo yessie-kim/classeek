@@ -1,4 +1,4 @@
-Crse Lst,Crse Lst Descr,Eff Date,Crse Lst Effective Status,Crse Seq,Course ID,Subject,Catalog Nbr,description,WildCard,Wildcard Acad Group,Wildcard Subject,Wildcard Catalog,Valid Beg,Valid End,Term Code,Term Descr,Class Assoc,Topic ID,Req Designation,subject,course
+Crse Lst,Crse Lst Descr,Eff Date,Crse Lst Effective Status,Crse Seq,Course ID,Subject,Catalog Nbr,title,WildCard,Wildcard Acad Group,Wildcard Subject,Wildcard Catalog,Valid Beg,Valid End,Term Code,Term Descr,Class Assoc,Topic ID,Req Designation,subject,course
 20,1997 Introductory Composition (no test),1997-09-03,A,1,18306,AMCULT,101,Rdg in Amer,N,,,,,,,,0,0,,AMCUL,AMCUL 101
 20,1997 Introductory Composition (no test),1997-09-03,A,2,17574,AMCULT,170,Col&Cult Enc,N,,,,,,,,0,0,,AMCUL,AMCUL 170
 20,1997 Introductory Composition (no test),1997-09-03,A,48,47730,BIOLOGY,197,Science Writing,N,,,,,,2200.0,Summer 2018,0,0,,BIOLOG,BIOLOG 197
