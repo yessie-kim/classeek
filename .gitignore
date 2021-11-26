@@ -2,10 +2,10 @@
 .ipynb_checkpoints
 
 # OS junk files
-.DS_Store
+*.DS_Store
 
 # Data
-assets/**
+assets/
 *.pickle
 *.csv
 
