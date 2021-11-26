@@ -5,12 +5,12 @@
 *.DS_Store
 
 # Data
-/assets
-/User profile/CS requirement/*.pickle
-/User profile/CS requirement/*.csv
-/User profile/LSA requirements/*.pickle
-/User profile/LSA requirements/*.csv
-/User profile/LSA requirements/*.xlsx
+*/assets
+*/User profile/CS requirement/*.pickle
+*/User profile/CS requirement/*.csv
+*/User profile/LSA requirements/*.pickle
+*/User profile/LSA requirements/*.csv
+*/User profile/LSA requirements/*.xlsx
 
 # Proposal documents
 *.docx
