@@ -1,0 +1,455 @@
+Crse Lst,Crse Lst Descr,Eff Date,Crse Lst Effective Status,Crse Seq,Course ID,Subject,Catalog Nbr,title,WildCard,Wildcard Acad Group,Wildcard Subject,Wildcard Catalog,Valid Beg,Valid End,Term Code,Term Descr,Class Assoc,Topic ID,Req Designation,subject,course
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,267,6226,AAPTIS,471,Adv West Arm I,N,,,,1999-09-08,,,,0,0,,AAPTI,AAPTI 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,24,6226,AAPTIS,471,Adv West Arm I,N,,,,,,,,0,0,,AAPTI,AAPTI 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,268,6227,AAPTIS,472,Adv West Arm II,N,,,,1999-09-08,,,,0,0,,AAPTI,AAPTI 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,25,6227,AAPTIS,472,Adv West Arm II,N,,,,,,,,0,0,,AAPTI,AAPTI 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,468,9134,AAPTIS,552,Read Tanzimat,N,,,,1997-09-03,,,,0,0,,AAPTI,AAPTI 552
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,341,13475,AAPTIS,554,Adv Turk Comp,N,,,,1998-09-08,,,,0,0,,AAPTI,AAPTI 554
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,15,9135,AAPTIS,556,Mod Turk Lit,N,,,,,,,,0,0,,AAPTI,AAPTI 556
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,469,18962,AAPTIS,557,Mod Turk Poetr,N,,,,1997-09-03,,,,0,0,,AAPTI,AAPTI 557
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,470,5415,ACABS,542,Lit Heb Bibl,N,,,,1997-09-03,,,,0,0,,ACAB,ACAB 542
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,21,5413,ACABS,544,Tannaitic Lit,N,,,,,,,,0,0,,ACAB,ACAB 544
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,480,18155,AMCULT,224,Span Herit Lang,N,,,,,,,,0,0,,AMCUL,AMCUL 224
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,22,13272,AMCULT,422,Adv Ojibwe I,N,,,,,,,,0,0,,AMCUL,AMCUL 422
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,23,13273,AMCULT,423,Adv Ojibwe II,N,,,,,,,,0,0,,AMCUL,AMCUL 423
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,328,4746,ARABIC,401,Advanced Arabic I,N,,,,1997-09-03,,,,0,0,,ARABI,ARABI 401
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,1,4747,ARABIC,402,Advanced Arabic II,N,,,,,,,,0,0,,ARABI,ARABI 402
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,6,9964,ARABIC,501,Adv Arabic Conv&Comp,N,,,,,,,,0,0,,ARABI,ARABI 501
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,7,8005,ARABIC,502,Readings in Arabic,N,,,,,,,,0,0,,ARABI,ARABI 502
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,466,7997,ARABIC,504,Adv Arabic Media I,N,,,,1997-09-03,,,,0,0,,ARABI,ARABI 504
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,255,4753,ARABIC,507,Arab Syn Semantics,N,,,,1998-09-08,,,,0,0,,ARABI,ARABI 507
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,329,18171,ARABIC,516,Business Arabic II,N,,,,1997-09-03,,,,0,0,,ARABI,ARABI 516
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,256,20822,ARABIC,600,Reading MARAA,N,,,,1998-09-08,,,,0,0,,ARABI,ARABI 600
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,18,9966,ARABIC,603,Class Arabic Poetry,N,,,,,,,,0,0,,ARABI,ARABI 603
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,269,21645,ARABIC,604,Mod Arab Poetry,N,,,,1999-09-08,,,,0,0,,ARABI,ARABI 604
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,19,20419,ARABIC,605,Arab Hist Biog Geog,N,,,,,,,,0,0,,ARABI,ARABI 605
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,267,6226,ARMENIAN,471,Adv West Arm I,N,,,,1999-09-08,,,,0,0,,ARMENIA,ARMENIA 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,24,6226,ARMENIAN,471,Adv West Arm I,N,,,,,,,,0,0,,ARMENIA,ARMENIA 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,25,6227,ARMENIAN,472,Adv West Arm II,N,,,,,,,,0,0,,ARMENIA,ARMENIA 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,268,6227,ARMENIAN,472,Adv West Arm II,N,,,,1999-09-08,,,,0,0,,ARMENIA,ARMENIA 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,374,18810,ASIAN,418,Urdu Poetry,N,,,,2000-09-02,,,,0,0,,ASIA,ASIA 418
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,326,18362,ASIAN,419,Hindi-Urdu Poetry,N,,,,2001-09-05,,,,0,0,,ASIA,ASIA 419
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,272,21515,ASIAN,530,Interpret Analects,N,,,,1999-09-08,,,,0,0,,ASIA,ASIA 530
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,293,4914,ASIAN,538,Sinolog Tools&Meth,N,,,,2000-09-06,,,,0,0,,ASIA,ASIA 538
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,286,5642,ASIAN,552,Medieval Jpn Prose,N,,,,1999-09-08,,,,0,0,,ASIA,ASIA 552
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,285,10044,ASIAN,555,Classical Jpn Prose,N,,,,1999-09-08,,,,0,0,,ASIA,ASIA 555
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,287,5644,ASIAN,556,Modern Japanese Lit,N,,,,1999-09-08,,,,0,0,,ASIA,ASIA 556
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,288,21315,ASIAN,557,Japan Image Culture,N,,,,1999-09-08,,,,0,0,,ASIA,ASIA 557
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,28,4906,ASIANLAN,301,3rd Yr Chinese I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 301
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,29,8084,ASIANLAN,302,3rd Yr Chinese II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 302
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,30,1566,ASIANLAN,303,Intsv 3rd Yr Chinese,N,,,,,,,,0,0,,ASIANLA,ASIANLA 303
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,376,38993,ASIANLAN,304,3rd Yr Heritage Chn,N,,,,2001-09-05,,,,0,0,,ASIANLA,ASIANLA 304
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,27,4905,ASIANLAN,305,Inter Spoken Chn I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 305
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,394,39966,ASIANLAN,306,Inter Spoken Chn II,N,,,,2003-09-02,,,,0,0,,ASIANLA,ASIANLA 306
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,270,21514,ASIANLAN,307,Mandarin I,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 307
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,32,20436,ASIANLAN,308,Mandarin II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 308
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,140,5637,ASIANLAN,325,3rd Yr Japanese I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 325
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,141,8598,ASIANLAN,326,3rd Yr Japanese II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 326
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,144,12466,ASIANLAN,327,Intsv 3rd Yr Jpn,N,,,,,,,,0,0,,ASIANLA,ASIANLA 327
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,364,5633,ASIANLAN,329,Adv Spoken Jpn I,N,,,,2000-09-02,,,,0,0,,ASIANLA,ASIANLA 329
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,365,16883,ASIANLAN,330,Adv Spoken Jpn II,N,,,,2000-09-02,,,,0,0,,ASIANLA,ASIANLA 330
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,355,15295,ASIANLAN,331,Read Japanese St I,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 331
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,356,15296,ASIANLAN,332,Read Japanese St II,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 332
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,152,17625,ASIANLAN,335,3rd Yr Korean I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 335
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,153,17933,ASIANLAN,336,3rd Yr Korean II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 336
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,245,13460,ASIANLAN,351,3rd Yr Sanskrit I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 351
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,352,13461,ASIANLAN,352,3rd Yr Sanskrit II,N,,,,1998-09-08,,,,0,0,,ASIANLA,ASIANLA 352
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,382,39419,ASIANLAN,401,4th Year Chinese I,N,,,,2002-09-03,,,,0,0,,ASIANLA,ASIANLA 401
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,383,39420,ASIANLAN,402,4th Year Chinese II,N,,,,2002-09-03,,,,0,0,,ASIANLA,ASIANLA 402
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,37,4908,ASIANLAN,403,Reading Chinese I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 403
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,396,39418,ASIANLAN,404,Read&Write Chn IV,N,,,,2003-09-02,,,,0,0,,ASIANLA,ASIANLA 404
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,271,21299,ASIANLAN,405,Computers&Chinese,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 405
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,31,20197,ASIANLAN,406,Business Chinese II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 406
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,38,8087,ASIANLAN,407,Readings Mod Chinese,N,,,,,,,,0,0,,ASIANLA,ASIANLA 407
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,33,10343,ASIANLAN,407,Chinese Soc Sci I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 407
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,34,16428,ASIANLAN,408,Chinese Soc Sci II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 408
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,35,4907,ASIANLAN,409,Classical Chinese,N,,,,,,,,0,0,,ASIANLA,ASIANLA 409
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,395,39967,ASIANLAN,410,Chinese News,N,,,,2003-09-02,,,,0,0,,ASIANLA,ASIANLA 410
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,36,8086,ASIANLAN,410,Literary Chinese II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 410
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,289,21575,ASIANLAN,411,Advanced Filipino I,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 411
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,290,21576,ASIANLAN,412,Advanced Filipino II,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 412
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,379,13458,ASIANLAN,415,Readings in Hindi I,N,,,,2001-09-05,,,,0,0,,ASIANLA,ASIANLA 415
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,380,13459,ASIANLAN,416,Readings in Hindi II,N,,,,2001-09-05,,,,0,0,,ASIANLA,ASIANLA 416
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,243,16713,ASIANLAN,417,Advanced Hindi I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 417
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,244,16910,ASIANLAN,418,Advanced Hindi II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 418
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,241,13432,ASIANLAN,419,Adv Indonesian I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 419
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,242,13433,ASIANLAN,420,Adv Indonesian II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 420
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,253,16264,ASIANLAN,421,Reading Indonesian I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 421
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,254,16265,ASIANLAN,422,Read Indonesian II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 422
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,282,21550,ASIANLAN,425,Media Japanese I,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 425
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,283,21551,ASIANLAN,426,Media Japanese II,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 426
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,142,5638,ASIANLAN,427,Reading Japanese I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 427
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,143,8599,ASIANLAN,428,Reading Japanese II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 428
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,145,14276,ASIANLAN,429,Business Japanese I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 429
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,146,16884,ASIANLAN,430,Business Japanese II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 430
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,150,5639,ASIANLAN,431,Japanese Soc Sci Txt,N,,,,,,,,0,0,,ASIANLA,ASIANLA 431
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,262,5641,ASIANLAN,433,Classical Japanese I,N,,,,1998-09-08,,,,0,0,,ASIANLA,ASIANLA 433
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,263,8602,ASIANLAN,434,Classical Jpanese II,N,,,,1998-09-08,,,,0,0,,ASIANLA,ASIANLA 434
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,397,8602,ASIANLAN,434,Classical Jpanese II,N,,,,2003-09-02,,,,0,0,,ASIANLA,ASIANLA 434
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,154,20484,ASIANLAN,435,Read Mod Korean I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 435
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,319,20857,ASIANLAN,436,Read Mod Korean II,N,,,,2001-09-05,,,,0,0,,ASIANLA,ASIANLA 436
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,429,41323,ASIANLAN,450,Japanese Pedagogy I,N,,,,2006-09-05,,,,0,0,,ASIANLA,ASIANLA 450
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,247,13441,ASIANLAN,455,Advanced Tamil I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 455
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,248,13442,ASIANLAN,456,Advanced Tamil II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 456
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,239,13430,ASIANLAN,461,Advanced Thai I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 461
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,240,13431,ASIANLAN,462,Advanced Thai II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 462
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,377,22059,ASIANLAN,463,Advanced Tibetan I,N,,,,2001-09-05,,,,0,0,,ASIANLA,ASIANLA 463
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,378,22060,ASIANLAN,464,Advanced Tibetan II,N,,,,2001-09-05,,,,0,0,,ASIANLA,ASIANLA 464
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,26,4830,ASIANLAN,469,Adv Class Tibetan I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 469
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,398,4830,ASIANLAN,469,Adv Class Tibetan I,N,,,,2003-09-02,,,,0,0,,ASIANLA,ASIANLA 469
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,292,4831,ASIANLAN,470,Adv Class Tibetan II,N,,,,2000-09-06,,,,0,0,,ASIANLA,ASIANLA 470
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,317,38701,ASIANLAN,471,Advanced Urdu I,N,,,,2001-09-05,,,,0,0,,ASIANLA,ASIANLA 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,318,38702,ASIANLAN,472,Advanced Urdu II,N,,,,2001-09-05,,,,0,0,,ASIANLA,ASIANLA 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,249,13452,ASIANLAN,475,Adv Vietnamese I,N,,,,,,,,0,0,,ASIANLA,ASIANLA 475
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,250,13453,ASIANLAN,476,Adv Vietnamese II,N,,,,,,,,0,0,,ASIANLA,ASIANLA 476
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,430,41681,ASIANLAN,481,Advanced Telugu I,N,,,,2006-09-05,,,,0,0,,ASIANLA,ASIANLA 481
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,431,41682,ASIANLAN,482,Advanced Telugu II,N,,,,2006-09-05,,,,0,0,,ASIANLA,ASIANLA 482
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,432,41683,ASIANLAN,485,Advanced Bengali I,N,,,,2006-09-05,,,,0,0,,ASIANLA,ASIANLA 485
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,433,41685,ASIANLAN,486,Advanced Bengali II,N,,,,2006-09-05,,,,0,0,,ASIANLA,ASIANLA 486
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,151,8600,ASIANLAN,492,Japanese Linguistics,N,,,,,,,,0,0,,ASIANLA,ASIANLA 492
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,284,5640,ASIANLAN,494,Adv Japanese Ling,N,,,,1999-09-08,,,,0,0,,ASIANLA,ASIANLA 494
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,257,17261,BA,499,Do Bus German,N,,,,1998-09-08,,,,0,0,,B,B 499
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,39,20444,CZECH,341,Third-Yr Cz,N,,,,,,,,0,0,,CZEC,CZEC 341
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,40,20445,CZECH,342,Third-Yr Cz,N,,,,,,,,0,0,,CZEC,CZEC 342
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,41,8168,DUTCH,495,Topics Dutch Lit,N,,,,,,,,0,0,,DUTC,DUTC 495
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,42,3932,EDCURINS,455,Teaching Spanish,N,,,,,,,,0,0,,EDCURIN,EDCURIN 455
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,43,3933,EDCURINS,456,Teaching French,N,,,,,,,,0,0,,EDCURIN,EDCURIN 456
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,44,1659,FRENCH,235,Adv French,N,,,,,,,,0,0,,FRENC,FRENC 235
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,45,19250,FRENCH,250,UG Sem-Fren Studies,N,,,,,,,,0,0,,FRENC,FRENC 250
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,46,19251,FRENCH,270,Lit&Culture,N,,,,,,,,0,0,,FRENC,FRENC 270
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,47,19252,FRENCH,272,Film&Culture,N,,,,,,,,0,0,,FRENC,FRENC 272
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,48,19253,FRENCH,274,Societies,N,,,,,,,,0,0,,FRENC,FRENC 274
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,49,19254,FRENCH,276,Spok&Wr Performance,N,,,,,,,,0,0,,FRENC,FRENC 276
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,50,14230,FRENCH,333,Fr Phonetics,N,,,,,,,,0,0,,FRENC,FRENC 333
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,51,5214,FRENCH,335,Composition,N,,,,,,,,0,0,,FRENC,FRENC 335
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,399,5215,FRENCH,337,Translation,N,,,,2003-09-02,,,,0,0,,FRENC,FRENC 337
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,52,5218,FRENCH,350,Topics Fr Studies,N,,,,,,,,0,0,,FRENC,FRENC 350
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,53,19257,FRENCH,362,Que&Fr Cdn Stds,N,,,,,,,,0,0,,FRENC,FRENC 362
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,54,19258,FRENCH,363,Caribbean St,N,,,,,,,,0,0,,FRENC,FRENC 363
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,55,19259,FRENCH,364,Studies-Maghreb,N,,,,,,,,0,0,,FRENC,FRENC 364
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,471,19260,FRENCH,365,Sub-Saharan,N,,,,1997-09-03,,,,0,0,,FRENC,FRENC 365
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,57,16661,FRENCH,366,Medieval Lit&Cult,N,,,,,,,,0,0,,FRENC,FRENC 366
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,58,5219,FRENCH,367,Early Modern,N,,,,,,,,0,0,,FRENC,FRENC 367
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,59,5220,FRENCH,368,18th-19th C,N,,,,,,,,0,0,,FRENC,FRENC 368
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,60,5221,FRENCH,369,Modernity,N,,,,,,,,0,0,,FRENC,FRENC 369
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,61,16444,FRENCH,370,Adv Profic Frn,N,,,,,,,,0,0,,FRENC,FRENC 370
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,472,5228,FRENCH,372,Cinema,N,,,,1997-09-03,,,,0,0,,FRENC,FRENC 372
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,358,19262,FRENCH,373,Pop Culture,N,,,,2000-09-02,,,,0,0,,FRENC,FRENC 373
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,64,5225,FRENCH,374,Fr Society,N,,,,,,,,0,0,,FRENC,FRENC 374
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,65,19263,FRENCH,375,Film&Society,N,,,,,,,,0,0,,FRENC,FRENC 375
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,359,19264,FRENCH,377,Media Studies,N,,,,2000-09-02,,,,0,0,,FRENC,FRENC 377
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,67,19265,FRENCH,378,Genre Studies,N,,,,,,,,0,0,,FRENC,FRENC 378
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,68,19266,FRENCH,379,Gender,N,,,,,,,,0,0,,FRENC,FRENC 379
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,69,10361,FRENCH,380,Intermed Bus French,N,,,,,,,,0,0,,FRENC,FRENC 380
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,400,39970,FRENCH,381,French Internship,N,,,,2003-09-02,,,,0,0,,FRENC,FRENC 381
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,70,5217,FRENCH,384,Origins Contemp,N,,,,,,,,0,0,,FRENC,FRENC 384
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,71,8286,FRENCH,385,Contemp France,N,,,,,,,,0,0,,FRENC,FRENC 385
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,72,1658,FRENCH,399,Ind Study,N,,,,,,,,0,0,,FRENC,FRENC 399
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,401,15906,FRENCH,414,Adv Business Fr,N,,,,2003-09-02,,,,0,0,,FRENC,FRENC 414
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,391,15906,FRENCH,414,Adv Business Fr,N,,,,2003-09-02,,,,0,0,,FRENC,FRENC 414
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,353,19276,FRENCH,436,Professional,N,,,,1999-09-08,,,,0,0,,FRENC,FRENC 436
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,354,19278,FRENCH,439,Writing Workshp,N,,,,1999-09-08,,,,0,0,,FRENC,FRENC 439
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,76,14236,FRENCH,450,Special Studies,N,,,,,,,,0,0,,FRENC,FRENC 450
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,77,10777,FRENCH,461,Old French Texts,N,,,,,,,,0,0,,FRENC,FRENC 461
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,320,8292,FRENCH,462,Lit in 16th Century,N,,,,2001-09-05,,,,0,0,,FRENC,FRENC 462
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,402,8292,FRENCH,462,Lit in 16th Century,N,,,,2003-09-02,,,,0,0,,FRENC,FRENC 462
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,78,5231,FRENCH,463,Lit 17th C,N,,,,,,,,0,0,,FRENC,FRENC 463
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,360,8293,FRENCH,464,Lit 18th C,N,,,,2000-09-02,,,,0,0,,FRENC,FRENC 464
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,80,15911,FRENCH,465,Lit 19th C,N,,,,,,,,0,0,,FRENC,FRENC 465
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,81,14234,FRENCH,466,Lit 20th C,N,,,,,,,,0,0,,FRENC,FRENC 466
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,434,15913,FRENCH,467,20th C Novel,N,,,,2006-09-05,,,,0,0,,FRENC,FRENC 467
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,82,5235,FRENCH,469,Afr&Carib Lit,N,,,,,,,,0,0,,FRENC,FRENC 469
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,273,21531,GERMAN,290,Ger Internet,N,,,,1999-09-08,,,,0,0,,GERMA,GERMA 290
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,403,21531,GERMAN,290,Ger Internet,N,,,,2003-09-02,,,,0,0,,GERMA,GERMA 290
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,274,21651,GERMAN,300,Towards Fluency,N,,,,1999-09-08,,,,0,0,,GERMA,GERMA 300
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,258,20840,GERMAN,307,Ger for Medicine,N,,,,1998-09-08,,,,0,0,,GERMA,GERMA 307
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,486,41722,GERMAN,315,Intro to German Lit,N,,,,,,,,0,0,,GERMA,GERMA 315
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,275,21532,GERMAN,319,Engineering German,N,,,,1999-09-08,,,,0,0,,GERMA,GERMA 319
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,85,5348,GERMAN,325,Interm German,N,,,,,,,,0,0,,GERMA,GERMA 325
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,86,1689,GERMAN,326,Interm German,N,,,,,,,,0,0,,GERMA,GERMA 326
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,404,39973,GERMAN,332,German Film,N,,,,2003-09-02,,,,0,0,,GERMA,GERMA 332
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,487,45059,GERMAN,336,Performing German,N,,,,,,,,0,0,,GERMA,GERMA 336
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,87,5350,GERMAN,350,Business German,N,,,,,,,,0,0,,GERMA,GERMA 350
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,88,8376,GERMAN,351,Prac Business Ger,N,,,,,,,,0,0,,GERMA,GERMA 351
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,342,18198,GERMAN,380,Arthur & Songs,N,,,,1998-09-08,,,,0,0,,GERMA,GERMA 380
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,90,5351,GERMAN,381,18-19th Cent Drama,N,,,,,,,,0,0,,GERMA,GERMA 381
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,91,5352,GERMAN,382,19-20th Cent Drama,N,,,,,,,,0,0,,GERMA,GERMA 382
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,92,10367,GERMAN,383,German Lyric Poetry,N,,,,,,,,0,0,,GERMA,GERMA 383
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,93,8377,GERMAN,384,Romanticsm-Realism,N,,,,,,,,0,0,,GERMA,GERMA 384
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,94,5353,GERMAN,385,Ger Prose 19c-Pres,N,,,,,,,,0,0,,GERMA,GERMA 385
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,97,5354,GERMAN,415,Ger in Contemp World,N,,,,,,,,0,0,,GERMA,GERMA 415
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,110,9755,GERMAN,416,Sem German Studies,N,,,,,,,,0,0,,GERMA,GERMA 416
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,276,21535,GERMAN,419,Drama and History,N,,,,1999-09-08,,,,0,0,,GERMA,GERMA 419
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,277,21653,GERMAN,421,Marriage:Medieval,N,,,,1999-09-08,,,,0,0,,GERMA,GERMA 421
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,278,21536,GERMAN,422,Ger-Jewish Culture,N,,,,1999-09-08,,,,0,0,,GERMA,GERMA 422
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,98,5355,GERMAN,425,Adv German,N,,,,,,,,0,0,,GERMA,GERMA 425
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,99,8379,GERMAN,426,Adv German,N,,,,,,,,0,0,,GERMA,GERMA 426
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,257,17261,GERMAN,430,Do Bus German,N,,,,1998-09-08,,,,0,0,,GERMA,GERMA 430
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,294,22345,GERMAN,431,Germ Mgt&Marketing,N,,,,2000-09-06,,,,0,0,,GERMA,GERMA 431
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,100,8384,GERMAN,450,Med Lit Mod Trans,N,,,,,,,,0,0,,GERMA,GERMA 450
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,279,5362,GERMAN,451,16-17th C Ger Lit,N,,,,1999-09-08,,,,0,0,,GERMA,GERMA 451
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,343,8385,GERMAN,452,18th C Ger Lit,N,,,,1998-09-08,,,,0,0,,GERMA,GERMA 452
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,344,8386,GERMAN,453,Germ Classical Lit,N,,,,1998-09-08,,,,0,0,,GERMA,GERMA 453
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,103,10792,GERMAN,454,German Romanticism,N,,,,,,,,0,0,,GERMA,GERMA 454
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,104,5363,GERMAN,455,19th C Ger Fiction,N,,,,,,,,0,0,,GERMA,GERMA 455
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,345,10793,GERMAN,456,19th C Ger Theater,N,,,,1998-09-08,,,,0,0,,GERMA,GERMA 456
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,106,10794,GERMAN,457,20th C Ger Fiction,N,,,,,,,,0,0,,GERMA,GERMA 457
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,107,10795,GERMAN,458,Ger Lit After 1945,N,,,,,,,,0,0,,GERMA,GERMA 458
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,280,10796,GERMAN,459,Lit of Ger Dem Rep,N,,,,1999-09-08,,,,0,0,,GERMA,GERMA 459
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,450,41723,GERMAN,464,German Ethnicities,N,,,,2006-09-05,,,,0,0,,GERMA,GERMA 464
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,346,15191,GERMAN,471,Ger Lit Beg Pres I,N,,,,1998-09-08,,,,0,0,,GERMA,GERMA 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,467,15192,GERMAN,472,Ger Lit Bg Pres II,N,,,,,1999-09-08,,,0,0,,GERMA,GERMA 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,111,10803,GERMAN,506,Struct of Mod Germ,N,,,,,,,,0,0,,GERMA,GERMA 506
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,330,5398,GREEK,401,Greek Prose,N,,,,1997-09-03,,,,0,0,,GREE,GREE 401
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,331,8415,GREEK,402,Drama,N,,,,1997-09-03,,,,0,0,,GREE,GREE 402
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,327,19292,GREEK,405,Intermediate,N,,,,,2005-09-05,,,0,0,,GREE,GREE 405
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,332,15947,GREEK,410,Elem Composition,N,,,,1997-09-03,,,,0,0,,GREE,GREE 410
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,113,10558,GREEK,435,5th C Prose,N,,,,,,,,0,0,,GREE,GREE 435
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,114,11975,GREEK,436,Herodotus,N,,,,,,,,0,0,,GREE,GREE 436
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,435,41647,GREEK,437,Thucydides,N,,,,2006-09-05,,,,0,0,,GREE,GREE 437
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,295,10009,GREEK,438,Attic Orators,N,,,,2000-09-06,,,,0,0,,GREE,GREE 438
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,436,41690,GREEK,439,Xenophon,N,,,,2006-09-05,,,,0,0,,GREE,GREE 439
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,437,41691,GREEK,441,"Lyrics, Elegy & Iamb",N,,,,2006-09-05,,,,0,0,,GREE,GREE 441
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,438,41693,GREEK,442,Pindar & Bacchylides,N,,,,2006-09-05,,,,0,0,,GREE,GREE 442
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,439,41694,GREEK,449,Tragedy,N,,,,2006-09-05,,,,0,0,,GREE,GREE 449
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,440,41698,GREEK,452,Ethnography,N,,,,2006-09-05,,,,0,0,,GREE,GREE 452
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,441,41699,GREEK,453,Medical Writers,N,,,,2006-09-05,,,,0,0,,GREE,GREE 453
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,442,41700,GREEK,454,Pre-Socratic Phil,N,,,,2006-09-05,,,,0,0,,GREE,GREE 454
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,443,41702,GREEK,455,Greek Novel,N,,,,2006-09-05,,,,0,0,,GREE,GREE 455
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,281,11976,GREEK,459,Bucolic Poets,N,,,,1999-09-08,,,,0,0,,GREE,GREE 459
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,444,41704,GREEK,461,Hellenistic Poetry,N,,,,2006-09-05,,,,0,0,,GREE,GREE 461
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,334,11977,GREEK,462,Plato: Republic,N,,,,1997-09-03,,,,0,0,,GREE,GREE 462
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,333,10370,GREEK,463,Plato: Dialogues,N,,,,1997-09-03,,,,0,0,,GREE,GREE 463
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,445,41705,GREEK,465,Aristot: Poet & Rhet,N,,,,2006-09-05,,,,0,0,,GREE,GREE 465
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,446,41706,GREEK,466,Polybius,N,,,,2006-09-05,,,,0,0,,GREE,GREE 466
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,447,41665,GREEK,467,Arrian,N,,,,2006-09-05,,,,0,0,,GREE,GREE 467
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,448,41709,GREEK,471,Imperial Greek,N,,,,2006-09-05,,,,0,0,,GREE,GREE 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,419,40765,GREEK,476,Adv Greek Reading,N,,,,2004-09-07,,,,0,0,,GREE,GREE 476
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,335,14816,GREEK,506,Adv Greek Comp,N,,,,1997-09-03,,,,0,0,,GREE,GREE 506
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,336,10374,GREEK,509,The Homeric Epic,N,,,,1997-09-03,,,,0,0,,GREE,GREE 509
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,337,5400,GREEK,511,Thucydides,N,,,,1997-09-03,,,,0,0,,GREE,GREE 511
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,296,14263,GREEK,515,Euripides,N,,,,2000-09-06,,,,0,0,,GREE,GREE 515
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,115,5401,GREEK,516,Aristophanes,N,,,,,,,,0,0,,GREE,GREE 516
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,449,5401,GREEK,516,Aristophanes,N,,,,2006-09-05,,,,0,0,,GREE,GREE 516
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,116,8418,GREEK,519,Aeschylus,N,,,,,,,,0,0,,GREE,GREE 519
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,297,10829,GREEK,520,Sophocles,N,,,,2000-09-06,,,,0,0,,GREE,GREE 520
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,298,5402,GREEK,521,Pindar,N,,,,2000-09-06,,,,0,0,,GREE,GREE 521
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,420,16671,GREEK,550,Grk Lyric Poetry,N,,,,2004-09-07,,,,0,0,,GREE,GREE 550
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,338,13984,GREEK,554,Plato,N,,,,1997-09-03,,,,0,0,,GREE,GREE 554
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,299,12889,GREEK,556,Grk Phil Lit I,N,,,,2000-09-06,,,,0,0,,GREE,GREE 556
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,300,8420,GREEK,560,Hellenistic Poet,N,,,,2000-09-06,,,,0,0,,GREE,GREE 560
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,309,22079,GREEKMOD,301,Inter Mod Greek I,N,,,,2000-09-06,,,,0,0,,GREEKMO,GREEKMO 301
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,310,22080,GREEKMOD,302,Inter Mod Greek II,N,,,,2000-09-06,,,,0,0,,GREEKMO,GREEKMO 302
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,117,5409,HEBREW,301,Advanced Hebrew I,N,,,,,,,,0,0,,HEBRE,HEBRE 301
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,118,5410,HEBREW,302,Adv Hebrew II,N,,,,,,,,0,0,,HEBRE,HEBRE 302
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,421,40690,HJCS,305,Israeli Theater&Film,N,,,,2004-09-07,,,,0,0,,HJC,HJC 305
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,119,5411,HJCS,401,Hebrew Media I,N,,,,,,,,0,0,,HJC,HJC 401
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,120,8426,HJCS,402,Hebrew Media II,N,,,,,,,,0,0,,HJC,HJC 402
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,121,1698,HJCS,471,Reading Hebrew Lit,N,,,,,,,,0,0,,HJC,HJC 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,122,13312,HJCS,472,Intr Heb Lit II,N,,,,,,,,0,0,,HJC,HJC 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,339,12891,HJCS,493,Hebrew Structure,N,,,,1997-09-03,,,,0,0,,HJC,HJC 493
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,470,5415,HJCS,542,Lit Heb Bibl,N,,,,1997-09-03,,,,0,0,,HJC,HJC 542
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,21,5413,HJCS,544,Tannaitic Lit,N,,,,,,,,0,0,,HJC,HJC 544
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,123,5414,HJCS,545,Med Jewish Lit,N,,,,,,,,0,0,,HJC,HJC 545
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,125,8431,HJCS,572,Israeli Lit II,N,,,,,,,,0,0,,HJC,HJC 572
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,361,22217,ITALIAN,235,Adv Italian Pract I,N,,,,2000-09-02,,,,0,0,,ITALIA,ITALIA 235
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,478,43050,ITALIAN,236,Adv Italian Pract II,N,,,,,,,,0,0,,ITALIA,ITALIA 236
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,301,1757,ITALIAN,275,Ital Multimedia I,N,,,,2000-09-06,,,,0,0,,ITALIA,ITALIA 275
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,126,1757,ITALIAN,275,Ital Multimedia I,N,,,,,,,,0,0,,ITALIA,ITALIA 275
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,477,43051,ITALIAN,276,Ital Multimedia II,N,,,,,,,,0,0,,ITALIA,ITALIA 276
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,127,20021,ITALIAN,300,Adv Comp&Conv,N,,,,,,,,0,0,,ITALIA,ITALIA 300
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,384,39331,ITALIAN,305,Intro Italian Study,N,,,,2002-09-03,,,,0,0,,ITALIA,ITALIA 305
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,259,10849,ITALIAN,320,Mod Ital Studies,N,,,,1998-09-08,,,,0,0,,ITALIA,ITALIA 320
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,405,10849,ITALIAN,320,Mod Ital Studies,N,,,,2003-09-02,,,,0,0,,ITALIA,ITALIA 320
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,128,5618,ITALIAN,340,Contemp Ital,N,,,,,,,,0,0,,ITALIA,ITALIA 340
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,406,39972,ITALIAN,345,Intermed Bus Italian,N,,,,2003-09-02,,,,0,0,,ITALIA,ITALIA 345
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,423,40288,ITALIAN,346,Italian Internship,N,,,,2004-09-07,,,,0,0,,ITALIA,ITALIA 346
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,129,8587,ITALIAN,350,Historical Novel,N,,,,,,,,0,0,,ITALIA,ITALIA 350
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,130,12902,ITALIAN,361,Adv Comprehension,N,,,,,,,,0,0,,ITALIA,ITALIA 361
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,131,1758,ITALIAN,374,Topics Ital Studies,N,,,,,,,,0,0,,ITALIA,ITALIA 374
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,132,5620,ITALIAN,387,Italian Ren Studies,N,,,,,,,,0,0,,ITALIA,ITALIA 387
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,260,15287,ITALIAN,390,Medieval Ital Study,N,,,,1998-09-08,,,,0,0,,ITALIA,ITALIA 390
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,407,15287,ITALIAN,390,Medieval Ital Study,N,,,,2003-09-02,,,,0,0,,ITALIA,ITALIA 390
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,362,8588,ITALIAN,400,Pirandello,N,,,,2000-09-02,,,,0,0,,ITALIA,ITALIA 400
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,408,10039,ITALIAN,422,Politics&Lit,N,,,,2003-09-02,2020-12-18,,,0,0,,ITALIA,ITALIA 422
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,302,21548,ITALIAN,425,Romanticism,N,,,,2000-09-06,,,,0,0,,ITALIA,ITALIA 425
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,303,15285,ITALIAN,464,Mod Ital Poetry,N,,,,2000-09-06,,,,0,0,,ITALIA,ITALIA 464
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,452,15285,ITALIAN,464,Mod Ital Poetry,N,,,,2006-09-05,,,,0,0,,ITALIA,ITALIA 464
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,424,40692,ITALIAN,468,New Italian Media,N,,,,2004-09-07,2020-12-18,,,0,0,,ITALIA,ITALIA 468
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,409,5621,ITALIAN,471,Italian Theater,N,,,,2003-09-02,,,,0,0,,ITALIA,ITALIA 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,261,5621,ITALIAN,471,Italian Theater,N,,,,1998-09-08,,,,0,0,,ITALIA,ITALIA 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,134,5622,ITALIAN,475,"Dante,Petr,Bocc",N,,,,,,,,0,0,,ITALIA,ITALIA 475
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,347,5624,ITALIAN,481,The Novella,N,,,,1998-09-08,,,,0,0,,ITALIA,ITALIA 481
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,428,5625,ITALIAN,482,Backgrnd Mod Ital,N,,,,2005-09-06,,,,0,0,,ITALIA,ITALIA 482
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,136,15286,ITALIAN,483,Ariosto and Tasso,N,,,,,,,,0,0,,ITALIA,ITALIA 483
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,363,11109,ITALIAN,486,Petrarch,N,,,,2000-09-02,,,,0,0,,ITALIA,ITALIA 486
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,304,21549,ITALIAN,499,Adv Indep Study,N,,,,2000-09-06,,,,0,0,,ITALIA,ITALIA 499
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,473,17475,JAPANESE,421,Intn Tec Jpn,N,,,,,2001-09-04,,,0,0,,JAPANES,JAPANES 421
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,474,17476,JAPANESE,445,Read Tec Jpn,N,,,,,2001-09-04,,,0,0,,JAPANES,JAPANES 445
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,475,17477,JAPANESE,446,Read Tec Jpn,N,,,,,2001-09-04,,,0,0,,JAPANES,JAPANES 446
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,305,8601,JAPANESE,493,Teaching 2nd Lang,N,,,,2000-09-06,,,,0,0,,JAPANES,JAPANES 493
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,155,18346,KOREAN,491,Ind Study,N,,,,,,,,0,0,,KOREA,KOREA 491
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,156,5655,LATIN,301,Intermediate Lat,N,,,,,,,,0,0,,LATI,LATI 301
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,157,8607,LATIN,302,Intermed Lat,N,,,,,,,,0,0,,LATI,LATI 302
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,158,5656,LATIN,401,Republican Prose,N,,,,,,,,0,0,,LATI,LATI 401
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,159,5657,LATIN,402,Imperial Prose,N,,,,,,,,0,0,,LATI,LATI 402
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,375,38552,LATIN,403,Elem Composition,N,,,,2000-09-02,,,,0,0,,LATI,LATI 403
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,160,5659,LATIN,409,Augustan Poetry,N,,,,,,,,0,0,,LATI,LATI 409
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,161,8608,LATIN,410,Rep-Imp Poetry,N,,,,,,,,0,0,,LATI,LATI 410
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,410,13336,LATIN,440,Vergil-Bucolics,N,,,,2003-09-02,,,,0,0,,LATI,LATI 440
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,453,41666,LATIN,442,Didactic Poetry,N,,,,2006-09-05,,,,0,0,,LATI,LATI 442
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,454,41718,LATIN,443,Latin Elegy,N,,,,2006-09-05,,,,0,0,,LATI,LATI 443
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,306,8611,LATIN,446,Horace: Odes&Epodes,N,,,,2000-09-06,,,,0,0,,LATI,LATI 446
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,455,41719,LATIN,448,Post-Virgilian Epic,N,,,,2006-09-05,,,,0,0,,LATI,LATI 448
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,456,41728,LATIN,455,Roman Epistolography,N,,,,2006-09-05,,,,0,0,,LATI,LATI 455
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,457,41729,LATIN,460,Tacitus,N,,,,2006-09-05,,,,0,0,,LATI,LATI 460
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,458,41667,LATIN,461,Livy,N,,,,2006-09-05,,,,0,0,,LATI,LATI 461
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,459,41730,LATIN,462,Roman Novel,N,,,,2006-09-05,,,,0,0,,LATI,LATI 462
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,460,41731,LATIN,463,Cicero Orations,N,,,,2006-09-05,,,,0,0,,LATI,LATI 463
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,461,41732,LATIN,464,Cicero:  Letters,N,,,,2006-09-05,,,,0,0,,LATI,LATI 464
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,462,41734,LATIN,471,Cicero: Phil Works,N,,,,2006-09-05,,,,0,0,,LATI,LATI 471
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,463,41746,LATIN,472,Topics Lat Lit & Cul,N,,,,2006-09-05,,,,0,0,,LATI,LATI 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,464,41747,LATIN,474,Later Latin Lit,N,,,,2006-09-05,,,,0,0,,LATI,LATI 474
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,465,41748,LATIN,480,Adv Latin Reading,N,,,,2006-09-05,,,,0,0,,LATI,LATI 480
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,162,14828,LATIN,490,Martial&Rom Ep,N,,,,,,,,0,0,,LATI,LATI 490
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,163,14829,LATIN,506,Adv Latin Comp,N,,,,,,,,0,0,,LATI,LATI 506
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,425,15701,LATIN,510,Plautus,N,,,,2005-09-06,,,,0,0,,LATI,LATI 510
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,264,12905,LATIN,535,Petronius,N,,,,1998-09-08,,,,0,0,,LATI,LATI 535
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,307,11987,LATIN,536,Apuleius,N,,,,2000-09-06,,,,0,0,,LATI,LATI 536
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,164,17330,LATIN,551,Elegiac Poets,N,,,,,,,,0,0,,LATI,LATI 551
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,165,8616,LATIN,566,Horace,N,,,,,,,,0,0,,LATI,LATI 566
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,308,15961,LATIN,581,Lucretius-Epicur,N,,,,2000-09-06,,,,0,0,,LATI,LATI 581
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,480,18155,LATINOAM,224,Span Herit Lang,N,,,,,,,,0,0,,LATINOA,LATINOA 224
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,315,22146,LING,398,Intro Spanish Ling,N,,,,2000-09-06,,,,0,0,,LIN,LIN 398
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,255,4753,LING,433,Arab Syn Semantics,N,,,,1998-09-08,,,,0,0,,LIN,LIN 433
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,58,5219,MEMS,377,Early Modern,N,,,,,,,,0,0,,MEM,MEM 377
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,57,16661,MEMS,386,Medieval Lit&Cult,N,,,,,,,,0,0,,MEM,MEM 386
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,77,10777,MEMS,444,Old French Texts,N,,,,,,,,0,0,,MEM,MEM 444
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,320,8292,MEMS,445,Lit in 16th Century,N,,,,2001-09-05,,,,0,0,,MEM,MEM 445
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,402,8292,MEMS,445,Lit in 16th Century,N,,,,2003-09-02,,,,0,0,,MEM,MEM 445
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,422,40478,MIDEAST,442,Reading the Rabbis,N,,,,2004-09-07,,,,0,0,,MIDEAS,MIDEAS 442
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,392,5611,MIDEAST,517,Class Persian Texts,N,,,,2003-09-02,,,,0,0,,MIDEAS,MIDEAS 517
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,17,8010,MIDEAST,519,Qur'An Study,N,,,,,,,,0,0,,MIDEAS,MIDEAS 519
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,393,8008,MIDEAST,520,Class Islamic Texts,N,,,,2003-09-02,,,,0,0,,MIDEAS,MIDEAS 520
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,451,5416,MIDEAST,555,Modern Jewish Lit,N,,,,2006-09-05,,,,0,0,,MIDEAS,MIDEAS 555
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,124,5416,MIDEAST,555,Modern Jewish Lit,N,,,,,,,,0,0,,MIDEAS,MIDEAS 555
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,22,13272,NATIVEAM,422,Adv Ojibwe I,N,,,,,,,,0,0,,NATIVEA,NATIVEA 422
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,23,13273,NATIVEAM,423,Adv Ojibwe II,N,,,,,,,,0,0,,NATIVEA,NATIVEA 423
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,9,10847,PERSIAN,504,Mod Persian Fiction,N,,,,,,,,0,0,,PERSIA,PERSIA 504
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,340,8582,PERSIAN,505,Persian Non-Fiction,N,,,,1998-09-08,,,,0,0,,PERSIA,PERSIA 505
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,166,12004,POLISH,321,Third Yr Polish,N,,,,,,,,0,0,,POLIS,POLIS 321
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,167,12005,POLISH,322,Third Yr Polish,N,,,,,,,,0,0,,POLIS,POLIS 322
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,411,39512,POLISH,421,4th-Year Polish I,N,,,,2003-09-02,,,,0,0,,POLIS,POLIS 421
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,412,39513,POLISH,422,4th-Year Polish II,N,,,,2003-09-02,,,,0,0,,POLIS,POLIS 422
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,265,21125,PORTUG,280,Port Rom Lang Spkrs,N,,,,1998-09-08,,,,0,0,,PORTU,PORTU 280
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,321,38936,PORTUG,290,Film and Pop Music,N,,,,2001-09-05,,,,0,0,,PORTU,PORTU 290
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,413,38936,PORTUG,290,Film and Pop Music,N,,,,2003-09-02,,,,0,0,,PORTU,PORTU 290
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,168,16472,PORTUG,350,Indepen Stdy,N,,,,,,,,0,0,,PORTU,PORTU 350
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,173,7064,RCLANG,310,Accel Rev-Fren,N,,,,,,,,0,0,,RCLAN,RCLAN 310
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,174,7065,RCLANG,311,Accel Rev-Germ,N,,,,,,,,0,0,,RCLAN,RCLAN 311
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,175,7066,RCLANG,314,Accel Rev-Span,N,,,,,,,,0,0,,RCLAN,RCLAN 314
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,488,7068,RCLANG,321,German Reading,N,,,,,,,,0,0,,RCLAN,RCLAN 321
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,61,16444,RCLANG,370,Adv Profic Frn,N,,,,,,,,0,0,,RCLAN,RCLAN 370
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,315,22146,ROMLING,298,Intro Spanish Ling,N,,,,2000-09-06,,,,0,0,,ROMLIN,ROMLIN 298
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,203,20062,ROMLING,355,New World Span,N,,,,,,,,0,0,,ROMLIN,ROMLIN 355
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,176,14292,ROMLING,410,Sp Phonetics/Phonolo,N,,,,,,,,0,0,,ROMLIN,ROMLIN 410
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,211,1950,ROMLING,411,Advanced Syntax,N,,,,,,,,0,0,,ROMLIN,ROMLIN 411
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,42,3932,ROMLING,413,Teaching Spanish,N,,,,,,,,0,0,,ROMLIN,ROMLIN 413
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,177,8965,ROMLING,414,Bkg Mod Span,N,,,,,,,,0,0,,ROMLIN,ROMLIN 414
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,348,20070,ROMLING,415,Probs Translation,N,,,,1998-09-08,,,,0,0,,ROMLIN,ROMLIN 415
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,428,5625,ROMLING,482,Backgrnd Mod Ital,N,,,,2005-09-06,,,,0,0,,ROMLIN,ROMLIN 482
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,476,41884,RUSSIAN,225,Russian Heritage II,N,,,,,,,,0,0,,RUSSIA,RUSSIA 225
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,178,6182,RUSSIAN,301,Third Yr Russian,N,,,,,,,,0,0,,RUSSIA,RUSSIA 301
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,179,6183,RUSSIAN,302,Third Yr Russian,N,,,,,,,,0,0,,RUSSIA,RUSSIA 302
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,180,1916,RUSSIAN,303,3rd Yr Intensive,N,,,,,,,,0,0,,RUSSIA,RUSSIA 303
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,366,8973,RUSSIAN,352,Intro to Lit,N,,,,2000-09-02,,,,0,0,,RUSSIA,RUSSIA 352
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,183,6185,RUSSIAN,401,Fourth Year Russ,N,,,,,,,,0,0,,RUSSIA,RUSSIA 401
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,184,6186,RUSSIAN,402,Fourth Year Russ,N,,,,,,,,0,0,,RUSSIA,RUSSIA 402
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,185,12415,RUSSIAN,403,4th Yr Intensive,N,,,,,,,,0,0,,RUSSIA,RUSSIA 403
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,186,15741,RUSSIAN,413,Business Russian,N,,,,,,,,0,0,,RUSSIA,RUSSIA 413
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,187,15742,RUSSIAN,414,Political Russian,N,,,,,,,,0,0,,RUSSIA,RUSSIA 414
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,188,6187,RUSSIAN,415,Contemp Spoken,N,,,,,,,,0,0,,RUSSIA,RUSSIA 415
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,367,8974,RUSSIAN,416,Contemp Spoken,N,,,,2000-09-02,,,,0,0,,RUSSIA,RUSSIA 416
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,190,14295,RUSSIAN,417,Contemp Culture,N,,,,,,,,0,0,,RUSSIA,RUSSIA 417
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,316,6188,RUSSIAN,419,Stylistics,N,,,,1997-09-03,,,,0,0,,RUSSIA,RUSSIA 419
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,192,8975,RUSSIAN,420,Stylistics,N,,,,,,,,0,0,,RUSSIA,RUSSIA 420
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,181,6184,RUSSIAN,451,Intro to Lit,N,,,,,,,,0,0,,RUSSIA,RUSSIA 451
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,311,22084,RUSSIAN,475,New Russian Poetry,N,,,,2000-09-06,,,,0,0,,RUSSIA,RUSSIA 475
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,312,22223,RUSSIAN,499,Adv Sem Russian,N,,,,2000-09-06,,,,0,0,,RUSSIA,RUSSIA 499
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,314,22373,SPANISH,250,UG Sem-Hispanic St,N,,,,2000-09-06,,,,0,0,,SPANIS,SPANIS 250
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,193,16912,SPANISH,270,Span Conv,N,,,,,,,,0,0,,SPANIS,SPANIS 270
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,485,46380,SPANISH,274X,Departmental,N,,,,2015-08-22,,,,0,0,,SPANIS,SPANIS 274X
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,194,1948,SPANISH,275,Grammar&Comp,N,,,,,,,,0,0,,SPANIS,SPANIS 275
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,195,6278,SPANISH,276,Reading&Comp,N,,,,,,,,0,0,,SPANIS,SPANIS 276
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,479,44187,SPANISH,277,Sp Grammar & Comp,N,,,,,,,,0,0,,SPANIS,SPANIS 277
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,480,18155,SPANISH,278,Span Herit Lang,N,,,,,,,,0,0,,SPANIS,SPANIS 278
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,484,46379,SPANISH,279X,Departmental,N,,,,2015-08-22,,,,0,0,,SPANIS,SPANIS 279X
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,196,20057,SPANISH,283,Sp-Professions,N,,,,,,,,0,0,,SPANIS,SPANIS 283
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,266,21140,SPANISH,287,Written Expression,N,,,,1998-09-08,,,,0,0,,SPANIS,SPANIS 287
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,481,44080,SPANISH,289,Intro to Translation,N,,,,,,,,0,0,,SPANIS,SPANIS 289
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,197,20059,SPANISH,295,Intro Lit Cultr Arts,N,,,,,,,,0,0,,SPANIS,SPANIS 295
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,482,44081,SPANISH,296,Spec Topics Lit&Cul,N,,,,,,,,0,0,,SPANIS,SPANIS 296
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,315,22146,SPANISH,298,Intro Spanish Ling,N,,,,2000-09-06,,,,0,0,,SPANIS,SPANIS 298
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,483,44082,SPANISH,299,Intro Internship,N,,,,,,,,0,0,,SPANIS,SPANIS 299
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,415,1946,SPANISH,308,Academic Writing,N,,,,2003-09-02,,,,0,0,,SPANIS,SPANIS 308
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,385,39407,SPANISH,313,Contemp Issues Spain,N,,,,2002-09-03,,,,0,0,,SPANIS,SPANIS 313
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,386,39408,SPANISH,314,Issues Mexic&CentrAm,N,,,,2002-09-03,,,,0,0,,SPANIS,SPANIS 314
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,387,39409,SPANISH,315,Issues Carib & So Am,N,,,,2002-09-03,,,,0,0,,SPANIS,SPANIS 315
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,198,20060,SPANISH,328,Hispanic Pop Culture,N,,,,,,,,0,0,,SPANIS,SPANIS 328
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,199,20061,SPANISH,332,Narr Lat Am Spain,N,,,,,,,,0,0,,SPANIS,SPANIS 332
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,368,10098,SPANISH,335,Contemp Cult Prod,N,,,,2000-09-02,,,,0,0,,SPANIS,SPANIS 335
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,322,10098,SPANISH,335,Contemp Cult Prod,N,,,,2001-09-05,,,,0,0,,SPANIS,SPANIS 335
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,323,38942,SPANISH,337,Poetry Workshop,N,,,,2001-09-05,,,,0,0,,SPANIS,SPANIS 337
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,416,38942,SPANISH,337,Poetry Workshop,N,,,,2003-09-02,,,,0,0,,SPANIS,SPANIS 337
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,201,6280,SPANISH,340,Contemp Spain,N,,,,,,,,0,0,,SPANIS,SPANIS 340
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,202,9058,SPANISH,341,Early L-Am Cult,N,,,,,,,,0,0,,SPANIS,SPANIS 341
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,203,20062,SPANISH,355,New World Span,N,,,,,,,,0,0,,SPANIS,SPANIS 355
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,204,20066,SPANISH,368,Lit and Arts,N,,,,,,,,0,0,,SPANIS,SPANIS 368
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,205,9056,SPANISH,371,Span Lit I,N,,,,,,,,0,0,,SPANIS,SPANIS 371
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,206,6279,SPANISH,372,Span Lit II,N,,,,,,,,0,0,,SPANIS,SPANIS 372
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,207,9057,SPANISH,373,Topics Hisp Studies,N,,,,,,,,0,0,,SPANIS,SPANIS 373
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,208,6281,SPANISH,381,Lat-Am Lit I,N,,,,,,,,0,0,,SPANIS,SPANIS 381
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,209,9059,SPANISH,382,Lat-Am Lit II,N,,,,,,,,0,0,,SPANIS,SPANIS 382
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,210,6283,SPANISH,387,Social Forces Spain,N,,,,,,,,0,0,,SPANIS,SPANIS 387
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,176,14292,SPANISH,410,Sp Phonetics/Phonolo,N,,,,,,,,0,0,,SPANIS,SPANIS 410
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,211,1950,SPANISH,411,Advanced Syntax,N,,,,,,,,0,0,,SPANIS,SPANIS 411
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,42,3932,SPANISH,413,Teaching Spanish,N,,,,,,,,0,0,,SPANIS,SPANIS 413
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,177,8965,SPANISH,414,Bkg Mod Span,N,,,,,,,,0,0,,SPANIS,SPANIS 414
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,348,20070,SPANISH,415,Probs Translation,N,,,,1998-09-08,,,,0,0,,SPANIS,SPANIS 415
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,291,21268,SPANISH,420,Lat Amer Film,N,,,,2000-09-06,,,,0,0,,SPANIS,SPANIS 420
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,213,20071,SPANISH,425,L-Am/Span Theater,N,,,,,,,,0,0,,SPANIS,SPANIS 425
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,388,39410,SPANISH,428,Internship,N,,,,2002-09-03,,,,0,0,,SPANIS,SPANIS 428
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,214,20072,SPANISH,430,Adv Stds Hisp Cult,N,,,,,,,,0,0,,SPANIS,SPANIS 430
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,215,20073,SPANISH,432,Gender & Sexuality,N,,,,,,,,0,0,,SPANIS,SPANIS 432
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,216,16278,SPANISH,437,Lit Stds&Criticsm,N,,,,,,,,0,0,,SPANIS,SPANIS 437
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,381,38950,SPANISH,438,Pol & Econ Thought,N,,,,2001-09-05,,,,0,0,,SPANIS,SPANIS 438
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,217,20074,SPANISH,440,Lit&Cul Borderlnd,N,,,,,,,,0,0,,SPANIS,SPANIS 440
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,324,38951,SPANISH,442,Hist Memory,N,,,,2001-09-05,,,,0,0,,SPANIS,SPANIS 442
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,417,38951,SPANISH,442,Hist Memory,N,,,,2003-09-02,,,,0,0,,SPANIS,SPANIS 442
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,218,6286,SPANISH,450,Middle Ages,N,,,,,,,,0,0,,SPANIS,SPANIS 450
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,369,6287,SPANISH,451,Span Lit of 15 C,N,,,,2000-09-02,,,,0,0,,SPANIS,SPANIS 451
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,220,9064,SPANISH,456,Golden Age,N,,,,,,,,0,0,,SPANIS,SPANIS 456
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,370,15484,SPANISH,457,Trends Golden Age,N,,,,2000-09-02,,,,0,0,,SPANIS,SPANIS 457
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,222,6290,SPANISH,458,Early Mod Narrative,N,,,,,,,,0,0,,SPANIS,SPANIS 458
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,223,6291,SPANISH,459,Cervantes,N,,,,,,,,0,0,,SPANIS,SPANIS 459
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,349,9065,SPANISH,460,Spanish Comedia,N,,,,1998-09-08,,,,0,0,,SPANIS,SPANIS 460
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,371,11157,SPANISH,463,Hisp Enlightenment,N,,,,2000-09-02,,,,0,0,,SPANIS,SPANIS 463
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,226,9062,SPANISH,464,Romanticism,N,,,,,,,,0,0,,SPANIS,SPANIS 464
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,227,6289,SPANISH,465,Mod Span Novel I,N,,,,,,,,0,0,,SPANIS,SPANIS 465
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,372,9066,SPANISH,466,Mod Span Novel II,N,,,,2000-09-02,,,,0,0,,SPANIS,SPANIS 466
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,373,10099,SPANISH,467,Lit&Artistic Mvmts,N,,,,2000-09-02,,,,0,0,,SPANIS,SPANIS 467
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,350,6288,SPANISH,468,Performance,N,,,,1998-09-08,,,,0,0,,SPANIS,SPANIS 468
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,231,9773,SPANISH,470,Colonial Latin-Amer,N,,,,,,,,0,0,,SPANIS,SPANIS 470
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,418,38952,SPANISH,472,Indigenous Societies,N,,,,2003-09-02,,,,0,0,,SPANIS,SPANIS 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,325,38952,SPANISH,472,Indigenous Societies,N,,,,2001-09-05,,,,0,0,,SPANIS,SPANIS 472
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,232,20075,SPANISH,473,Col Postcol,N,,,,,,,,0,0,,SPANIS,SPANIS 473
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,233,9068,SPANISH,475,L-Am/Span Narrative,N,,,,,,,,0,0,,SPANIS,SPANIS 475
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,351,9067,SPANISH,476,Lat-Am Poetry,N,,,,1998-09-08,,,,0,0,,SPANIS,SPANIS 476
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,235,1952,SPANISH,485,Case Studies,N,,,,,,,,0,0,,SPANIS,SPANIS 485
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,236,17714,SPANISH,488,Topics Lit/Hist/Cult,N,,,,,,,,0,0,,SPANIS,SPANIS 488
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,357,19118,SSEA,372,IM Punjabi,N,,,,1999-09-08,,,,0,0,,SSE,SSE 372
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,426,40959,TURKISH,401,Adv Turkish I,N,,,,2005-09-06,,,,0,0,,TURKIS,TURKIS 401
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,427,40961,TURKISH,402,Adv Turkish II,N,,,,2005-09-06,,,,0,0,,TURKIS,TURKIS 402
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,11,6374,TURKISH,407,Read Ottoman Turkish,N,,,,,,,,0,0,,TURKIS,TURKIS 407
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,13,6373,TURKISH,504,Mod Turkish Readings,N,,,,,,,,0,0,,TURKIS,TURKIS 504
+179,1997 Presumption of Proficiency (1 of 2),1997-09-03,A,215,20073,WGS,462,Gender & Sexuality,N,,,,,,,,0,0,,WG,WG 462

@@ -4,12 +4,12 @@
 # OS junk files
 *.DS_Store
 
-# Data folder
+# Data
 assets/
+*.pickle
+*.csv
 
 # Proposal documents
 *.docx
 *.xlsx
 *.gdoc
-
-
