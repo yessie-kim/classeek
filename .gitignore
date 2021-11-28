@@ -6,6 +6,7 @@
 
 # Data
 assets/
+assets/original/
 *.csv
 **/*.pickle
 **/*.csv
