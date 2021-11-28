@@ -15,3 +15,6 @@ assets/original/
 *.docx
 *.xlsx
 *.gdoc
+
+# Other documents
+*.pdf
