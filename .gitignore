@@ -5,11 +5,12 @@
 *.DS_Store
 
 # Data
+assets/
 *.csv
 **/*.pickle
 **/*.csv
 
 # Proposal documents
-**/*.docx
-**/*.xlsx
-**/*.gdoc
+*.docx
+*.xlsx
+*.gdoc
