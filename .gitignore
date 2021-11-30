@@ -19,4 +19,5 @@ assets/original/
 # Other documents
 *.pdf
 
-Ready to deploy/
+# Ready to deploy folder
+Deploy/
