@@ -5,11 +5,19 @@
 *.DS_Store
 
 # Data
+assets/
+assets/original/
 *.csv
 **/*.pickle
 **/*.csv
 
 # Proposal documents
-**/*.docx
-**/*.xlsx
-**/*.gdoc
+*.docx
+*.xlsx
+*.gdoc
+
+# Other documents
+*.pdf
+
+# Ready to deploy folder
+Deploy/
