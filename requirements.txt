@@ -61,6 +61,7 @@ filelock==3.0.12
 Fiona==1.8.4
 fitparse==1.2.0
 flashtext==2.7
+Flask==2.0.2
 flatbuffers==2.0
 folium==0.12.1
 funcy==1.16
@@ -86,12 +87,14 @@ idna @ file:///tmp/build/80754af9/idna_1593446292537/work
 ImageHash==4.2.0
 imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1592145894352/work
 importlib-metadata==4.8.2
+install==1.3.5
 ipykernel @ file:///opt/concourse/worker/volumes/live/88f541d3-5a27-498f-7391-f2e50ca36560/volume/ipykernel_1596206680118/work/dist/ipykernel-5.3.4-py3-none-any.whl
 ipython @ file:///opt/concourse/worker/volumes/live/26969e8f-c9f7-42dc-6ffb-b3effd424c49/volume/ipython_1604101242376/work
 ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1601490159889/work
+itsdangerous==2.0.1
 jedi @ file:///opt/concourse/worker/volumes/live/12a2c347-a8e4-4b62-5b19-dcc92a2254f6/volume/jedi_1606932552286/work
-Jinja2==2.11.2
+Jinja2==3.0.3
 jmespath==0.10.0
 joblib==1.1.0
 json5==0.9.5
@@ -110,7 +113,7 @@ libclang==12.0.0
 llvmlite==0.37.0
 lxml==4.6.3
 Markdown==3.3.6
-MarkupSafe @ file:///opt/concourse/worker/volumes/live/cb778296-98db-45ad-411e-6f726e102dc3/volume/markupsafe_1594371638608/work
+MarkupSafe==2.0.1
 matplotlib==3.3.3
 missingno==0.4.2
 mistune @ file:///opt/concourse/worker/volumes/live/95802d64-d39c-491b-74ce-b9326880ca54/volume/mistune_1594373201816/work
@@ -184,6 +187,7 @@ PySocks @ file:///opt/concourse/worker/volumes/live/85a5b906-0e08-41d9-6f59-084c
 pyspark==3.1.1
 python-binance==1.0.15
 python-dateutil==2.8.1
+python-dotenv==0.19.2
 pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
 PyWavelets==1.1.1
 PyYAML==5.3.1
@@ -266,6 +270,7 @@ Werkzeug==2.0.2
 widgetsnbextension==3.5.1
 wordcloud==1.8.1
 wrapt==1.13.3
+WTForms==3.0.0
 xlrd==2.0.1
 xmltodict==0.12.0
 yarl==1.7.0
