@@ -1,8 +1,18 @@
 import pandas as pd
+import json
+
+from flask import Flask, request
+from wtforms import Form, StringField, validators
+
+
+app = Flask(__name__)
 
 def recommend_course(courses_taken, course_type, num_to_recommend):
     
-    course_list = pd.read_csv('next_course_recommender_df.csv')
+    results = []
+    
+    course_list = pd.read_csv('./data/next_course_recommender_df.csv')
+    df = course_list
     
     valid_requirement_dist_options = course_list['Course List Description'].unique().tolist()
     
@@ -31,27 +41,38 @@ def recommend_course(courses_taken, course_type, num_to_recommend):
                 # If the type of the course entered and the course type entered are not the same
                 if type_of_course != course_type:
 
-                    print('These courses are not of the same requirement')
-                    print('----------------------')
-
-                    print(f'The requirement distribution of {courses_taken} is {type_of_course}.')
-                    print(f'Recommending courses of the same requirement with {courses_taken}:')
                     courses_of_same_type_entered = df[df['Course List Description'] == type_of_course]
                     courses_not_taken_entered = courses_of_same_type_entered[courses_of_same_type_entered['Subject/Catalog'] != courses_taken][['Subject/Catalog', 'Course Title']]
 
                     # If the number of course in list is longer than num_to_recommend
                     if len(courses_not_taken_entered) <  num_to_recommend:
                         courses_to_recommend_entered = courses_not_taken_entered[['Subject/Catalog', 'Course Title']]
-                        print(f'Total number of recommendations: {len(courses_to_recommend_entered)}')
+                        
 
                     # If the number of course in list is shorter than num_to_recommend
                     else:
                         courses_to_recommend_entered = courses_not_taken_entered.sample(num_to_recommend)[['Subject/Catalog', 'Course Title']]
-                        print(f'Total number of recommendations: {len(courses_to_recommend_entered)}')
+                        
+                    results.append(courses_to_recommend_entered.dropna().to_dict('records'))
+                   
+                    courses_of_same_type = df[df['Course List Description'] == course_type]
+                    courses_not_taken = courses_of_same_type[courses_of_same_type['Subject/Catalog'] != courses_taken][['Subject/Catalog', 'Course Title']]
 
-                    print(courses_to_recommend_entered)
-                    print('----------------------')
+                    # If the number of course in list is longer than num_to_recommend
+                    if len(courses_not_taken) <  num_to_recommend:
+                        courses_to_recommend = courses_not_taken[['Subject/Catalog', 'Course Title']]
 
+                    # If the number of course in list is shorter than num_to_recommend
+                    else:
+                        courses_to_recommend = courses_not_taken.sample(num_to_recommend)[['Subject/Catalog', 'Course Title']]
+
+                    results.append(courses_to_recommend.dropna().to_dict('records'))
+
+                ###########################################
+
+                else:
+                    # If the type of the course entered and the course type entered are the same
+                    print(f'Course {courses_taken} is of {course_type} requirement.')
                     print(f'Recommending course of the {course_type} requirement:')
                     courses_of_same_type = df[df['Course List Description'] == course_type]
                     courses_not_taken = courses_of_same_type[courses_of_same_type['Subject/Catalog'] != courses_taken][['Subject/Catalog', 'Course Title']]
@@ -67,27 +88,25 @@ def recommend_course(courses_taken, course_type, num_to_recommend):
                         print(f'Total number of recommendations: {len(courses_to_recommend)}')
 
                     print(courses_to_recommend)
-
-                ###########################################
-
-            else:
-                # If the type of the course entered and the course type entered are the same
-                print(f'Course {courses_taken} is of {course_type} requirement.')
-                print(f'Recommending course of the {course_type} requirement:')
-                courses_of_same_type = df[df['Course List Description'] == course_type]
-                courses_not_taken = courses_of_same_type[courses_of_same_type['Subject/Catalog'] != courses_taken][['Subject/Catalog', 'Course Title']]
-
-                # If the number of course in list is longer than num_to_recommend
-                if len(courses_not_taken) <  num_to_recommend:
-                    courses_to_recommend = courses_not_taken[['Subject/Catalog', 'Course Title']]
-                    print(f'Total number of recommendations: {len(courses_to_recommend)}')
-
-                # If the number of course in list is shorter than num_to_recommend
-                else:
-                    courses_to_recommend = courses_not_taken.sample(num_to_recommend)[['Subject/Catalog', 'Course Title']]
-                    print(f'Total number of recommendations: {len(courses_to_recommend)}')
-
-                print(courses_to_recommend)
+                    results.append(courses_to_recommend.dropna().to_dict('records'))
                 
-    else:
-        print('Course not found')
+    return results
+        
+
+class KeyWordForm(Form):
+    results = list()
+
+    course = StringField('course', [validators.Length(min=1,)])
+    requirement = StringField('requirement', [validators.Length(min=1,)])
+    num_recs = StringField('num_recs', [validators.Length(min=1,)])
+
+@app.route('/api/next',methods=['GET', 'POST'])
+def get_next_course():
+    form = KeyWordForm(request.form)
+
+
+    if request.method == 'POST' and form.validate():
+        result = recommend_course(form.course.data,form.requirement.data,int(form.num_recs.data))
+        return json.dumps(result)
+
+    return json.dumps([])
