@@ -23,13 +23,6 @@ assets/original/
 # Ready to deploy folder
 Deploy/
 
-Icon
-Icon
-Course recommender literature/Icon
-Scrape Course Description/Icon
-User profiles/Icon
-*.txt
-User profiles/Icon
-Scrape Course Description/Icon
-Course recommender literature/Icon
+*/Icon
+note.txt
 Icon
