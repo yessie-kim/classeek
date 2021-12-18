@@ -29,7 +29,7 @@ The following flowchart explains the significances of the folders included in th
 + *collab_filtering_exploration.ipynb* : Model selection and evaluation for collaborative recommender system. Exploration of memory-based and Matrix based (SVD and NMF) approaches. 
 + *collab_filtering_final.ipynb* : Final version of the memory-based model for collaborative recommender system. 
 + *content_based_exploration.ipynb* : Model selection and evaluation for course-based recommender system. Exploration of count vectorization with cosine similarity and tf-idf vectorization with sigmoid kernel. 
-+ *deep_learning_content_based_exploration.ipynb* : Exploration of deep learning approach for course-based recommender system and the final version for course-based recommender system.
++ *deep_learning_content_based_exploration.ipynb* : Exploration of deep learning approach for course-based and survey answer-based recommender system and the final version for course-based and survey answer-based recommender system.
 
 ## Access to Project Files in Exploration Folder
 The `Exploration` Folder contains our recommender systems' most comprehensive and final results. We recommend exploring this folder for efficiency. Of course, you are free to view draft files in other folders as well.
