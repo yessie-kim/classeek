@@ -15,7 +15,7 @@ This flowchart presents the overall steps of our project including the data used
 ## Data Used
 The majority of our data were supplied by [Office of the Registrar](https://ro.umich.edu) and [Center for Academic Innovation](https://ai.umich.edu) with one portion of the data used was scraped from the [LSA Course Guide](https://www.lsa.umich.edu/cg/)
 
-![tables](https://user-images.githubusercontent.com/76750938/146604310-e187d537-9427-4ade-a90d-7fcc1583261c.jpg)
+![tables](https://user-images.githubusercontent.com/76750938/146664540-545997fb-f5e5-4f70-9e0d-d50fbe69352b.jpg)
 
 The folder contains comprehensive data files used for the project can be found [here](https://drive.google.com/drive/folders/1rtkShHZcbzqS4RqxT83VuSgF9zS1xSVb?usp=sharing) (need UMID to access)
 
