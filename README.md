@@ -9,7 +9,7 @@ In this project, we create a pilot recommender system that reminds [The Universi
 ## Overall Flow
 This flowchart presents the overall steps of our project including the data used and algorithms utilized for each recommender system
 
-![Flowchart Final](https://user-images.githubusercontent.com/76750938/146621610-eb8f7e25-0fa5-411a-825d-549e077fb712.jpg)
+![Flowchart Final](https://user-images.githubusercontent.com/76750938/146664485-8da2270d-7b4e-4eee-91e5-430a67598cdd.jpg)
 
 
 ## Data Used
