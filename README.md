@@ -37,7 +37,7 @@ To navigate this folder, follow these steps for an effortless experience:
 
 + Clone the project GitHub repository:
 ```
-git clone https://github.com/annettehan/697-Capstone.git
+git clone https://github.com/annettehan/classeek.git
 ```
 + Create and activate a virtual environment:
 ```
