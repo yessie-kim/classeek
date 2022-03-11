@@ -1,3 +1,5 @@
+# Classeek
+
 ## Project Overview
 In this project, we create a pilot recommender system that reminds [The University of Michigan LSA Computer Science](https://cse.engin.umich.edu/academics/undergraduate/computer-science-lsa/) undergraduate students of the courses they should take to meet the college-specific requirements and connect students with courses they would not have otherwise selected. We provide a survey to a student user at the beginning of each section of the system, which asks the student about their course schedule, personal and academic interests, and aspirations. We then use this information to:
 
